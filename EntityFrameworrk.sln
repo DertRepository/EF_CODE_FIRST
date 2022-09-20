@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbFirst", "DbFirst\DbFirst.csproj", "{8E72BF87-D375-483D-9AF3-1487B1218DBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst", "CodeFirst\CodeFirst.csproj", "{54277196-9E27-472F-B956-69A35C817A14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueriesLINQ", "QueriesLINQ\QueriesLINQ.csproj", "{81114F60-BF54-4F0F-A416-AC76B8C924F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E72BF87-D375-483D-9AF3-1487B1218DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E72BF87-D375-483D-9AF3-1487B1218DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E72BF87-D375-483D-9AF3-1487B1218DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E72BF87-D375-483D-9AF3-1487B1218DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54277196-9E27-472F-B956-69A35C817A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54277196-9E27-472F-B956-69A35C817A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54277196-9E27-472F-B956-69A35C817A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54277196-9E27-472F-B956-69A35C817A14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81114F60-BF54-4F0F-A416-AC76B8C924F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81114F60-BF54-4F0F-A416-AC76B8C924F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81114F60-BF54-4F0F-A416-AC76B8C924F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81114F60-BF54-4F0F-A416-AC76B8C924F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26AB6E2B-C248-46BD-B57E-D771970AE8AF}
+	EndGlobalSection
+EndGlobal
